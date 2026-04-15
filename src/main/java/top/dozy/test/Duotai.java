@@ -1,12 +1,9 @@
 package top.dozy.test;
 
-public class Duotai {
-	static class Person {
-		void speak() {
-			System.out.println("大家好，我是一个人。");
-		}
-	}
 
+public class Duotai {
+
+	static class Person {
 		void sayHello() {
 			System.out.println("你好，我是人。");
 		}
